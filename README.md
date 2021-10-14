@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ignatius Nyongesa
 #### An elite Software Engineer / Developer
-![An elite Software Engineer / Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHGZ8YdYUi_Nw/profile-displaybackgroundimage-shrink_200_800/0/1634214562506?e=1639612800&v=beta&t=YX_tpYPZTH17LkaDPQCAYDAxnGcQ8jd45Czxoee6f7M)
+![An elite Software Engineer / Developer](https://github.com/ignatius-n/ignatius-n/blob/master/IT-Banner.jpg)
 
 I have over 6 years of experience in software development and over 2 years working as a full time employee. I have worked as a web app developer and tester. My stack usually comprises of:
 
