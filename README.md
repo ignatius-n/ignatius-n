@@ -50,7 +50,7 @@ Skills: Laravel / VueJS / MySQL / MongoDB / Bootstrap 4 ~ 5 / Docker / Redis
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ignatius-n)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ignatius-nyongesa-17a331223/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100070699242493)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16237933)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bytedots.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~01607c9674d709f3d1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/ignatius_n)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg' alt='bitbucket' height='40'>](https://bitbucket.org/ignatius-n/)  
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignatius-n)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ignatius-n)](https://github.com/ryo-ma/github-profile-trophy)
 
